@@ -1,4 +1,4 @@
-3import jokenpo.jokenpo as jokenpo
+import jokenpo.jokenpo as jokenpo
 import minesweeper.minesweeper as minesweeper
 import tictactoe.tictactoe as tictactoe
 
